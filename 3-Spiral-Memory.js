@@ -20,6 +20,5 @@ function SpiralMemory(num){
 	let complete = partial + (c - 1);
 
 	return complete;
-
 }
 
